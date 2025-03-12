@@ -8,14 +8,34 @@ class OrdonnanceRepository {
 
         return await Ordonnance.findAll({
             where: whereClause,
-            include: Medicament,
             offset: parseInt(page) * parseInt(limit),
             limit: parseInt(limit)
         });
     }
 
     async findById(id) {
-        return await Ordonnance.findByPk(id, { include: Medicament });
+        return await Ordonnance.findByPk(id);
+    }
+
+    async findMedicamentsByOrdonnanceId(id) {
+        const ordonnance = await Ordonnance.findByPk(id, {
+            include: {
+                model: Medicament,
+                attributes: ["id", "nom", "description", "effets_secondaires"],
+                through: { attributes: [] }
+            }
+        });
+
+        if (!ordonnance) {
+            throw new Error("Ordonnance introuvable");
+        }
+        
+        return ordonnance.medicaments.map(med => ({
+            id: med.id,
+            nom: med.nom,
+            description: med.description,
+            effets_secondaires: med.effets_secondaires
+        }));
     }
 
     async create(data) {

@@ -91,7 +91,7 @@ import {
  * @swagger
  * /ordonnances/{id}:
  *   get:
- *     summary: Récupère une ordonnance par ID avec ses médicaments
+ *     summary: Récupère une ordonnance par ID
  *     tags: [Ordonnances]
  *     parameters:
  *       - in: path
@@ -103,6 +103,42 @@ import {
  *     responses:
  *       200:
  *         description: Ordonnance récupérée avec succès
+ *       404:
+ *         description: Ordonnance non trouvée
+ */
+
+/**
+ * @swagger
+ * /ordonnances/{id}/medicaments:
+ *   get:
+ *     summary: Récupère uniquement la liste des médicaments d'une ordonnance
+ *     tags: [Ordonnances]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID de l'ordonnance
+ *     responses:
+ *       200:
+ *         description: Liste des médicaments récupérée avec succès
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 type: object
+ *                 properties:
+ *                   id:
+ *                     type: integer
+ *                     description: ID du médicament
+ *                   nom:
+ *                     type: string
+ *                     description: Nom du médicament
+ *                   description:
+ *                     type: string
+ *                     description: Description du médicament
  *       404:
  *         description: Ordonnance non trouvée
  */
@@ -192,6 +228,7 @@ const ordonnanceRouter = (app) => {
     app.get("/ordonnances", validatePagination, validate, ordonnanceController.getAllOrdonnances);
     app.post("/ordonnances", validateOrdonnanceCreation, validate, ordonnanceController.createOrdonnance);
     app.get("/ordonnances/:id", validateOrdonnanceId, validate, ordonnanceController.getOrdonnanceById);
+    app.get("/ordonnances/:id/medicaments", validateOrdonnanceId, validate, ordonnanceController.getOrdonnanceMedicaments);
     app.put("/ordonnances/:id", validateOrdonnanceId, validateOrdonnanceUpdate, validate, ordonnanceController.updateOrdonnance);
     app.delete("/ordonnances/:id", validateOrdonnanceId, validate, ordonnanceController.deleteOrdonnance);
 };

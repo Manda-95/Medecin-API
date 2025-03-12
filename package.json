@@ -5,7 +5,9 @@
   "main": "app.js",
   "scripts": {
     "swagger-gen": "node swaggerGen.js",
-    "start": "dotenvx run --env-file=.env -- nodemon ./app.js"
+    "start": "dotenvx run --env-file=.env -- nodemon ./app.js",
+    "lint": "eslint . --ext .js,.mjs"
+
   },
   "author": "",
   "license": "ISC",
@@ -48,8 +50,12 @@
   },
   "type": "module",
   "devDependencies": {
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.3",
     "jest": "^29.7.0",
     "jest-extended": "^4.0.2",
+    "prettier": "^3.5.3",
     "sequelize-cli": "^6.6.2",
     "supertest": "^7.0.0"
   }

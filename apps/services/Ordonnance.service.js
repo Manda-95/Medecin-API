@@ -13,6 +13,10 @@ class OrdonnanceService {
         return ordonnance;
     }
 
+    async getMedicamentsByOrdonnanceId(id) {
+        return await ordonnanceRepository.findMedicamentsByOrdonnanceId(id);
+    }
+
     async create(data) {
         const { nom_patient, medicaments } = data;
         if (!nom_patient || !Array.isArray(medicaments)) {

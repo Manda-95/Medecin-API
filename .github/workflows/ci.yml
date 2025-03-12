@@ -1,0 +1,29 @@
+name: CI - Vérification Qualité du Code
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  quality-checks:
+    name: Vérification du code
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cloner le repo
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: 'npm'
+
+      - name: Installer les dépendances
+        run: npm install
+
+      - name: Vérification ESLint
+        run: npm run lint

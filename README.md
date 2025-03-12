@@ -30,3 +30,11 @@ Une fois le projet démarré, tu peux consulter la documentation de l'API avec S
 
 Les tests Postman sont disponibles dans le fichier :
 **MedecineAPI.postman_collection.json**
+
+### **Vérification du code avec ESLint**
+
+Pour exécuter le linter et vérifier la qualité du code, utilise la commande suivante :
+```sh
+npm run lint
+```
+

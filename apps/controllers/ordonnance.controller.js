@@ -20,6 +20,15 @@ class OrdonnanceController {
         }
     }
 
+    async getOrdonnanceMedicaments(req, res, next) {
+        try {
+            const medicaments = await ordonnanceService.getMedicamentsByOrdonnanceId(req.params.id);
+            res.json(medicaments);
+        } catch (err) {
+            next(err);
+        }
+    }    
+
     async createOrdonnance(req, res, next) {
         try {
             const ordonnance = await ordonnanceService.create(req.body);

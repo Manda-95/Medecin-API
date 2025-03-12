@@ -1,6 +1,6 @@
 
 import { createLogger, format, transports } from 'winston';
-const { combine, timestamp, label, printf } = format;
+const { combine, timestamp, printf } = format;
 
 const myFormat = printf(({ level, message, timestamp, stack }) => {
     let result = `${timestamp} ${level}: ${message}`;
