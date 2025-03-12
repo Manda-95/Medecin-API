@@ -1,0 +1,849 @@
+2025-02-07T10:18:02.434Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:18:38.936Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:20:11.681Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:23:02.115Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:26:23.610Z info: Development data initialized
+2025-02-07T10:26:23.614Z error: insertOrPrintPermissions is not defined
+ReferenceError: insertOrPrintPermissions is not defined
+    at file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:151:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-07T10:26:47.705Z info: Development data initialized
+2025-02-07T10:26:47.713Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:26:47.713Z info: Using pharmacy_db database.
+2025-02-07T10:27:01.879Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-07T10:27:01.972Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-07T10:32:35.675Z info: Development data initialized
+2025-02-07T10:32:35.681Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:32:35.681Z info: Using pharmacy_db database.
+2025-02-07T10:35:23.918Z info: Development data initialized
+2025-02-07T10:35:23.925Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:35:23.925Z info: Using pharmacy_db database.
+2025-02-07T10:35:39.962Z info: Development data initialized
+2025-02-07T10:35:39.969Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:35:39.969Z info: Using pharmacy_db database.
+2025-02-07T10:51:07.287Z info: Development data initialized
+2025-02-07T10:51:07.294Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:51:07.294Z info: Using pharmacy_db database.
+2025-02-07T10:55:23.484Z info: Development data initialized
+2025-02-07T10:55:23.492Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T10:55:23.492Z info: Using pharmacy_db database.
+2025-02-07T11:01:27.447Z info: Development data initialized
+2025-02-07T11:01:27.452Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T11:01:27.453Z info: Using pharmacy_db database.
+2025-02-07T11:01:51.034Z info: Development data initialized
+2025-02-07T11:01:51.042Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T11:01:51.042Z info: Using pharmacy_db database.
+2025-02-07T11:02:03.741Z info: Development data initialized
+2025-02-07T11:02:03.748Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T11:02:03.748Z info: Using pharmacy_db database.
+2025-02-07T11:02:35.874Z info: Development data initialized
+2025-02-07T11:02:35.882Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T11:02:35.882Z info: Using pharmacy_db database.
+2025-02-07T11:03:05.279Z info: Development data initialized
+2025-02-07T11:03:05.286Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-07T11:03:05.286Z info: Using pharmacy_db database.
+2025-02-10T07:40:04.179Z info: Development data initialized
+2025-02-10T07:40:04.185Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:40:04.185Z info: Using pharmacy_db database.
+2025-02-10T07:46:50.951Z info: Development data initialized
+2025-02-10T07:46:50.964Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:46:50.964Z info: Using pharmacy_db database.
+2025-02-10T07:47:44.740Z info: Development data initialized
+2025-02-10T07:47:44.747Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:47:44.747Z info: Using pharmacy_db database.
+2025-02-10T07:48:45.637Z info: Development data initialized
+2025-02-10T07:48:45.643Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:48:45.643Z info: Using pharmacy_db database.
+2025-02-10T07:48:52.142Z info: Development data initialized
+2025-02-10T07:48:52.149Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:48:52.150Z info: Using pharmacy_db database.
+2025-02-10T07:49:06.102Z info: Development data initialized
+2025-02-10T07:49:06.108Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:49:06.108Z info: Using pharmacy_db database.
+2025-02-10T07:49:32.540Z info: Development data initialized
+2025-02-10T07:49:32.548Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:49:32.548Z info: Using pharmacy_db database.
+2025-02-10T07:49:40.339Z info: Development data initialized
+2025-02-10T07:49:40.346Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:49:40.346Z info: Using pharmacy_db database.
+2025-02-10T07:51:21.563Z info: Development data initialized
+2025-02-10T07:51:21.570Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:51:21.571Z info: Using pharmacy_db database.
+2025-02-10T07:52:15.775Z error: database is not defined
+ReferenceError: database is not defined
+    at seedData (file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/librairies/seed.js:5:5)
+    at file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:33:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-10T07:52:42.039Z error: notNull violation: Medicament.nom cannot be null
+SequelizeValidationError: notNull violation: Medicament.nom cannot be null
+    at InstanceValidator._validate (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:79:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:112:7)
+    at async InstanceValidator.validate (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:93:12)
+    at async Medicament.save (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/model.js:3030:7)
+    at async Medicament.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/model.js:1440:12)
+    at async seedData (file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/librairies/seed.js:9:18)
+    at async file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:33:5
+2025-02-10T07:52:49.689Z info: Development data initialized
+2025-02-10T07:52:49.694Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:52:49.694Z info: Using pharmacy_db database.
+2025-02-10T07:55:07.470Z info: Development data initialized
+2025-02-10T07:55:07.476Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T07:55:07.476Z info: Using pharmacy_db database.
+2025-02-10T08:00:24.708Z info: Development data initialized
+2025-02-10T08:00:24.714Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:00:24.714Z info: Using pharmacy_db database.
+2025-02-10T08:01:00.540Z info: Development data initialized
+2025-02-10T08:01:00.546Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:01:00.546Z info: Using pharmacy_db database.
+2025-02-10T08:01:08.574Z info: Development data initialized
+2025-02-10T08:01:08.580Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:01:08.580Z info: Using pharmacy_db database.
+2025-02-10T08:12:11.353Z info: Development data initialized
+2025-02-10T08:12:11.359Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:12:11.359Z info: Using pharmacy_db database.
+2025-02-10T08:19:25.401Z info: Development data initialized
+2025-02-10T08:19:25.407Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:19:25.407Z info: Using pharmacy_db database.
+2025-02-10T08:19:33.017Z info: Development data initialized
+2025-02-10T08:19:33.023Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:19:33.023Z info: Using pharmacy_db database.
+2025-02-10T08:19:36.380Z info: Development data initialized
+2025-02-10T08:19:36.387Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:19:36.387Z info: Using pharmacy_db database.
+2025-02-10T08:19:54.279Z info: Development data initialized
+2025-02-10T08:19:54.285Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:19:54.285Z info: Using pharmacy_db database.
+2025-02-10T08:20:00.939Z info: Development data initialized
+2025-02-10T08:20:00.944Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:20:00.944Z info: Using pharmacy_db database.
+2025-02-10T08:20:22.313Z info: Development data initialized
+2025-02-10T08:20:22.322Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:20:22.322Z info: Using pharmacy_db database.
+2025-02-10T08:21:12.523Z info: Development data initialized
+2025-02-10T08:21:12.529Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:21:12.529Z info: Using pharmacy_db database.
+2025-02-10T08:22:40.387Z info: Development data initialized
+2025-02-10T08:22:40.393Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:22:40.393Z info: Using pharmacy_db database.
+2025-02-10T08:22:47.655Z info: Development data initialized
+2025-02-10T08:22:47.661Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:22:47.661Z info: Using pharmacy_db database.
+2025-02-10T08:23:01.581Z info: Development data initialized
+2025-02-10T08:23:01.587Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:23:01.588Z info: Using pharmacy_db database.
+2025-02-10T08:23:28.470Z info: Development data initialized
+2025-02-10T08:23:28.477Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:23:28.478Z info: Using pharmacy_db database.
+2025-02-10T08:23:57.189Z info: Development data initialized
+2025-02-10T08:23:57.195Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:23:57.195Z info: Using pharmacy_db database.
+2025-02-10T08:24:08.667Z info: Development data initialized
+2025-02-10T08:24:08.673Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:24:08.673Z info: Using pharmacy_db database.
+2025-02-10T08:24:14.329Z info: Development data initialized
+2025-02-10T08:24:14.335Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:24:14.335Z info: Using pharmacy_db database.
+2025-02-10T08:24:56.105Z info: Development data initialized
+2025-02-10T08:24:56.111Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:24:56.111Z info: Using pharmacy_db database.
+2025-02-10T08:25:45.536Z info: Development data initialized
+2025-02-10T08:25:45.541Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:25:45.542Z info: Using pharmacy_db database.
+2025-02-10T08:26:44.970Z info: Development data initialized
+2025-02-10T08:26:44.976Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:26:44.976Z info: Using pharmacy_db database.
+2025-02-10T08:26:52.798Z info: Development data initialized
+2025-02-10T08:26:52.804Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:26:52.804Z info: Using pharmacy_db database.
+2025-02-10T08:27:21.094Z info: Development data initialized
+2025-02-10T08:27:21.101Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:27:21.101Z info: Using pharmacy_db database.
+2025-02-10T08:27:29.134Z info: Development data initialized
+2025-02-10T08:27:29.140Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:27:29.140Z info: Using pharmacy_db database.
+2025-02-10T08:28:36.334Z info: Development data initialized
+2025-02-10T08:28:36.341Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:28:36.341Z info: Using pharmacy_db database.
+2025-02-10T08:28:50.366Z info: Development data initialized
+2025-02-10T08:29:30.901Z info: Development data initialized
+2025-02-10T08:29:34.183Z info: Development data initialized
+2025-02-10T08:29:34.189Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:29:34.189Z info: Using pharmacy_db database.
+2025-02-10T08:30:02.845Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T08:37:14.271Z info: Development data initialized
+2025-02-10T08:37:14.277Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:37:14.277Z info: Using pharmacy_db database.
+2025-02-10T08:37:29.924Z info: Development data initialized
+2025-02-10T08:37:29.930Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:37:29.930Z info: Using pharmacy_db database.
+2025-02-10T08:37:39.341Z info: Development data initialized
+2025-02-10T08:37:39.347Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:37:39.347Z info: Using pharmacy_db database.
+2025-02-10T08:44:11.793Z info: Development data initialized
+2025-02-10T08:44:11.801Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:44:11.801Z info: Using pharmacy_db database.
+2025-02-10T08:45:15.372Z info: Development data initialized
+2025-02-10T08:45:15.380Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:45:15.380Z info: Using pharmacy_db database.
+2025-02-10T08:45:22.045Z info: Development data initialized
+2025-02-10T08:45:22.051Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:45:22.051Z info: Using pharmacy_db database.
+2025-02-10T08:45:26.648Z info: Development data initialized
+2025-02-10T08:45:26.654Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:45:26.654Z info: Using pharmacy_db database.
+2025-02-10T08:45:57.744Z info: Development data initialized
+2025-02-10T08:45:57.750Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:45:57.750Z info: Using pharmacy_db database.
+2025-02-10T08:46:16.065Z info: Development data initialized
+2025-02-10T08:46:16.071Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:46:16.071Z info: Using pharmacy_db database.
+2025-02-10T08:46:38.339Z info: Development data initialized
+2025-02-10T08:46:38.344Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:46:38.344Z info: Using pharmacy_db database.
+2025-02-10T08:46:48.296Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T08:46:48.396Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T08:47:59.607Z info: Development data initialized
+2025-02-10T08:47:59.612Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:47:59.612Z info: Using pharmacy_db database.
+2025-02-10T08:49:37.039Z info: Development data initialized
+2025-02-10T08:49:37.045Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:49:37.045Z info: Using pharmacy_db database.
+2025-02-10T08:53:56.257Z info: Development data initialized
+2025-02-10T08:53:56.262Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:53:56.262Z info: Using pharmacy_db database.
+2025-02-10T08:54:19.505Z info: Development data initialized
+2025-02-10T08:54:19.510Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:54:19.510Z info: Using pharmacy_db database.
+2025-02-10T08:54:28.183Z info: Development data initialized
+2025-02-10T08:54:28.188Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:54:28.188Z info: Using pharmacy_db database.
+2025-02-10T08:59:48.727Z info: Development data initialized
+2025-02-10T08:59:48.732Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T08:59:48.732Z info: Using pharmacy_db database.
+2025-02-10T09:00:02.791Z info: Development data initialized
+2025-02-10T09:00:02.798Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:00:02.799Z info: Using pharmacy_db database.
+2025-02-10T09:00:31.317Z info: Development data initialized
+2025-02-10T09:00:31.322Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:00:31.323Z info: Using pharmacy_db database.
+2025-02-10T09:01:19.568Z info: Development data initialized
+2025-02-10T09:01:19.573Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:01:19.574Z info: Using pharmacy_db database.
+2025-02-10T09:02:46.117Z info: Development data initialized
+2025-02-10T09:02:46.122Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:02:46.122Z info: Using pharmacy_db database.
+2025-02-10T09:15:33.226Z info: Development data initialized
+2025-02-10T09:15:33.232Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:15:33.232Z info: Using pharmacy_db database.
+2025-02-10T09:22:19.714Z info: Development data initialized
+2025-02-10T09:22:19.720Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:22:19.720Z info: Using pharmacy_db database.
+2025-02-10T09:47:50.178Z info: Development data initialized
+2025-02-10T09:47:50.183Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:47:50.183Z info: Using pharmacy_db database.
+2025-02-10T09:49:45.580Z info: Development data initialized
+2025-02-10T09:49:45.585Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:49:45.585Z info: Using pharmacy_db database.
+2025-02-10T09:49:48.621Z info: Development data initialized
+2025-02-10T09:49:48.628Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:49:48.628Z info: Using pharmacy_db database.
+2025-02-10T09:51:01.509Z info: Development data initialized
+2025-02-10T09:51:01.516Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:51:01.516Z info: Using pharmacy_db database.
+2025-02-10T09:54:06.529Z info: Development data initialized
+2025-02-10T09:54:06.536Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:54:06.536Z info: Using pharmacy_db database.
+2025-02-10T09:54:07.883Z info: Development data initialized
+2025-02-10T09:54:07.888Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:54:07.889Z info: Using pharmacy_db database.
+2025-02-10T09:54:11.320Z info: Development data initialized
+2025-02-10T09:54:11.326Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:54:11.326Z info: Using pharmacy_db database.
+2025-02-10T09:54:40.079Z info: Development data initialized
+2025-02-10T09:54:40.084Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:54:40.085Z info: Using pharmacy_db database.
+2025-02-10T09:59:31.545Z info: Development data initialized
+2025-02-10T09:59:31.551Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:59:31.551Z info: Using pharmacy_db database.
+2025-02-10T09:59:41.958Z info: Development data initialized
+2025-02-10T09:59:41.964Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T09:59:41.965Z info: Using pharmacy_db database.
+2025-02-10T10:00:42.799Z info: Development data initialized
+2025-02-10T10:00:42.805Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:00:42.805Z info: Using pharmacy_db database.
+2025-02-10T10:03:45.225Z info: Development data initialized
+2025-02-10T10:03:45.230Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:03:45.230Z info: Using pharmacy_db database.
+2025-02-10T10:04:58.781Z info: Development data initialized
+2025-02-10T10:04:58.786Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:04:58.787Z info: Using pharmacy_db database.
+2025-02-10T10:05:12.630Z info: Development data initialized
+2025-02-10T10:05:12.636Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:05:12.636Z info: Using pharmacy_db database.
+2025-02-10T10:05:37.557Z info: Development data initialized
+2025-02-10T10:05:37.564Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:05:37.565Z info: Using pharmacy_db database.
+2025-02-10T10:06:53.760Z info: Development data initialized
+2025-02-10T10:06:53.767Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:06:53.767Z info: Using pharmacy_db database.
+2025-02-10T10:07:58.998Z info: Development data initialized
+2025-02-10T10:07:59.003Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:07:59.004Z info: Using pharmacy_db database.
+2025-02-10T10:08:01.514Z info: Development data initialized
+2025-02-10T10:08:01.524Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:08:01.525Z info: Using pharmacy_db database.
+2025-02-10T10:10:22.648Z info: Development data initialized
+2025-02-10T10:10:22.654Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:10:22.654Z info: Using pharmacy_db database.
+2025-02-10T10:10:26.944Z info: Development data initialized
+2025-02-10T10:10:26.951Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:10:26.951Z info: Using pharmacy_db database.
+2025-02-10T10:12:09.764Z info: Development data initialized
+2025-02-10T10:12:09.773Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:12:09.774Z info: Using pharmacy_db database.
+2025-02-10T10:12:17.299Z info: Development data initialized
+2025-02-10T10:12:17.305Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:12:17.306Z info: Using pharmacy_db database.
+2025-02-10T10:17:13.749Z info: Development data initialized
+2025-02-10T10:17:13.755Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:17:13.755Z info: Using pharmacy_db database.
+2025-02-10T10:17:17.029Z info: Development data initialized
+2025-02-10T10:17:17.035Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:17:17.036Z info: Using pharmacy_db database.
+2025-02-10T10:18:34.312Z info: Development data initialized
+2025-02-10T10:18:34.318Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:18:34.318Z info: Using pharmacy_db database.
+2025-02-10T10:18:39.932Z info: Development data initialized
+2025-02-10T10:18:39.937Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:18:39.937Z info: Using pharmacy_db database.
+2025-02-10T10:34:46.292Z info: Development data initialized
+2025-02-10T10:34:46.299Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:34:46.299Z info: Using pharmacy_db database.
+2025-02-10T10:34:57.870Z info: Development data initialized
+2025-02-10T10:34:57.876Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:34:57.876Z info: Using pharmacy_db database.
+2025-02-10T10:35:02.471Z info: Development data initialized
+2025-02-10T10:35:02.478Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:35:02.479Z info: Using pharmacy_db database.
+2025-02-10T10:35:42.003Z info: Development data initialized
+2025-02-10T10:35:42.009Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:35:42.009Z info: Using pharmacy_db database.
+2025-02-10T10:35:50.795Z info: Development data initialized
+2025-02-10T10:35:50.801Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:35:50.801Z info: Using pharmacy_db database.
+2025-02-10T10:35:57.915Z info: Development data initialized
+2025-02-10T10:35:57.921Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:35:57.921Z info: Using pharmacy_db database.
+2025-02-10T10:36:16.993Z info: Development data initialized
+2025-02-10T10:36:17.004Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:36:17.004Z info: Using pharmacy_db database.
+2025-02-10T10:37:05.626Z info: Development data initialized
+2025-02-10T10:37:05.632Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:37:05.633Z info: Using pharmacy_db database.
+2025-02-10T10:38:41.745Z info: Development data initialized
+2025-02-10T10:38:41.750Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:38:41.750Z info: Using pharmacy_db database.
+2025-02-10T10:38:49.202Z info: Development data initialized
+2025-02-10T10:38:49.208Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:38:49.209Z info: Using pharmacy_db database.
+2025-02-10T10:39:12.074Z info: Development data initialized
+2025-02-10T10:39:12.081Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:39:12.081Z info: Using pharmacy_db database.
+2025-02-10T10:39:24.750Z info: Development data initialized
+2025-02-10T10:39:24.758Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:39:24.759Z info: Using pharmacy_db database.
+2025-02-10T10:40:36.986Z info: Development data initialized
+2025-02-10T10:40:36.991Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:40:36.991Z info: Using pharmacy_db database.
+2025-02-10T10:56:54.214Z info: Development data initialized
+2025-02-10T10:56:54.219Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-10T10:56:54.220Z info: Using pharmacy_db database.
+2025-02-10T11:52:49.862Z info: Development data initialized
+2025-02-12T07:32:41.243Z info: Development data initialized
+2025-02-12T07:32:41.248Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T07:32:41.248Z info: Using pharmacy_db database.
+2025-02-12T07:32:47.742Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T09:04:34.166Z info: Development data initialized
+2025-02-12T09:04:34.171Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:04:34.172Z info: Using pharmacy_db database.
+2025-02-12T09:04:42.629Z info: Development data initialized
+2025-02-12T09:04:42.634Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:04:42.634Z info: Using pharmacy_db database.
+2025-02-12T09:04:49.475Z info: Development data initialized
+2025-02-12T09:04:49.480Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:04:49.480Z info: Using pharmacy_db database.
+2025-02-12T09:18:23.616Z info: Development data initialized
+2025-02-12T09:18:23.622Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:18:23.622Z info: Using pharmacy_db database.
+2025-02-12T09:19:21.144Z info: Development data initialized
+2025-02-12T09:19:21.149Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:19:21.149Z info: Using pharmacy_db database.
+2025-02-12T09:23:41.830Z info: Development data initialized
+2025-02-12T09:23:41.835Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:23:41.835Z info: Using pharmacy_db database.
+2025-02-12T09:23:53.235Z info: Development data initialized
+2025-02-12T09:23:53.242Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:23:53.242Z info: Using pharmacy_db database.
+2025-02-12T09:23:56.028Z info: Development data initialized
+2025-02-12T09:23:56.034Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:23:56.034Z info: Using pharmacy_db database.
+2025-02-12T09:24:26.267Z info: Development data initialized
+2025-02-12T09:24:26.274Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:24:26.275Z info: Using pharmacy_db database.
+2025-02-12T09:25:02.695Z info: Development data initialized
+2025-02-12T09:25:02.701Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:25:02.701Z info: Using pharmacy_db database.
+2025-02-12T09:26:32.902Z info: Development data initialized
+2025-02-12T09:26:32.909Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:26:32.910Z info: Using pharmacy_db database.
+2025-02-12T09:27:44.213Z info: Development data initialized
+2025-02-12T09:27:44.220Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:27:44.220Z info: Using pharmacy_db database.
+2025-02-12T09:31:34.406Z info: Development data initialized
+2025-02-12T09:31:34.414Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:31:34.415Z info: Using pharmacy_db database.
+2025-02-12T09:31:53.680Z info: Development data initialized
+2025-02-12T09:31:53.686Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:31:53.686Z info: Using pharmacy_db database.
+2025-02-12T09:53:21.334Z info: Development data initialized
+2025-02-12T09:53:21.341Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:53:21.341Z info: Using pharmacy_db database.
+2025-02-12T09:56:41.333Z info: Development data initialized
+2025-02-12T09:56:41.339Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:56:41.340Z info: Using pharmacy_db database.
+2025-02-12T09:58:08.865Z info: Development data initialized
+2025-02-12T09:58:08.877Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T09:58:08.878Z info: Using pharmacy_db database.
+2025-02-12T10:00:14.232Z info: Development data initialized
+2025-02-12T10:00:14.253Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:00:14.254Z info: Using pharmacy_db database.
+2025-02-12T10:00:56.695Z info: Development data initialized
+2025-02-12T10:00:56.703Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:00:56.703Z info: Using pharmacy_db database.
+2025-02-12T10:00:59.909Z info: Development data initialized
+2025-02-12T10:00:59.923Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:00:59.923Z info: Using pharmacy_db database.
+2025-02-12T10:08:04.797Z info: Development data initialized
+2025-02-12T10:08:04.815Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:08:04.816Z info: Using pharmacy_db database.
+2025-02-12T10:08:11.231Z info: Development data initialized
+2025-02-12T10:08:11.238Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:08:11.238Z info: Using pharmacy_db database.
+2025-02-12T10:14:56.977Z info: Development data initialized
+2025-02-12T10:14:56.985Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:14:56.985Z info: Using pharmacy_db database.
+2025-02-12T10:14:59.100Z info: Development data initialized
+2025-02-12T10:14:59.116Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:14:59.117Z info: Using pharmacy_db database.
+2025-02-12T10:15:17.119Z info: Development data initialized
+2025-02-12T10:15:17.125Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:15:17.125Z info: Using pharmacy_db database.
+2025-02-12T10:15:19.260Z info: Development data initialized
+2025-02-12T10:15:19.267Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:15:19.267Z info: Using pharmacy_db database.
+2025-02-12T10:15:36.008Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:17:27.972Z info: Development data initialized
+2025-02-12T10:17:27.977Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:17:27.977Z info: Using pharmacy_db database.
+2025-02-12T10:17:34.782Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:19:00.067Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:19:18.201Z info: Development data initialized
+2025-02-12T10:19:18.206Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-12T10:19:18.206Z info: Using pharmacy_db database.
+2025-02-13T07:52:43.427Z info: Development data initialized
+2025-02-13T07:52:43.431Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-13T07:52:43.432Z info: Using pharmacy_db database.
+2025-02-13T07:52:52.221Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-02-13T07:52:52.331Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-02-13T08:16:16.180Z info: Development data initialized
+2025-02-13T08:16:16.185Z info: Intranet is listening on port 3000. You are on development environment.
+2025-02-13T08:16:16.185Z info: Using pharmacy_db database.
+2025-02-14T07:24:11.411Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-14T20:48:19.477Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-04T07:28:03.261Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-05T12:37:19.380Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-05T12:53:38.344Z info: Development data initialized
+2025-03-05T12:53:38.350Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T12:53:38.351Z info: Using pharmacy_db database.
+2025-03-05T12:54:17.353Z info: Development data initialized
+2025-03-05T12:54:17.358Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T12:54:17.358Z info: Using pharmacy_db database.
+2025-03-05T12:54:26.499Z info: Development data initialized
+2025-03-05T12:54:26.504Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T12:54:26.504Z info: Using pharmacy_db database.
+2025-03-05T12:54:45.717Z info: Development data initialized
+2025-03-05T12:54:45.722Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T12:54:45.722Z info: Using pharmacy_db database.
+2025-03-05T12:55:31.329Z info: Development data initialized
+2025-03-05T12:55:31.337Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T12:55:31.337Z info: Using pharmacy_db database.
+2025-03-05T13:35:32.719Z info: Development data initialized
+2025-03-05T13:35:32.724Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:35:32.724Z info: Using pharmacy_db database.
+2025-03-05T13:35:37.387Z info: Development data initialized
+2025-03-05T13:35:37.392Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:35:37.392Z info: Using pharmacy_db database.
+2025-03-05T13:43:14.391Z info: Development data initialized
+2025-03-05T13:43:14.397Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:43:14.398Z info: Using pharmacy_db database.
+2025-03-05T13:44:41.398Z info: Development data initialized
+2025-03-05T13:44:41.407Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:44:41.407Z info: Using pharmacy_db database.
+2025-03-05T13:44:42.536Z info: Development data initialized
+2025-03-05T13:44:42.542Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:44:42.542Z info: Using pharmacy_db database.
+2025-03-05T13:45:02.449Z info: Development data initialized
+2025-03-05T13:45:02.454Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T13:45:02.454Z info: Using pharmacy_db database.
+2025-03-05T15:38:46.095Z info: Development data initialized
+2025-03-05T15:38:46.100Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:38:46.100Z info: Using pharmacy_db database.
+2025-03-05T15:38:49.349Z info: Development data initialized
+2025-03-05T15:38:49.358Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:38:49.358Z info: Using pharmacy_db database.
+2025-03-05T15:39:23.442Z info: Development data initialized
+2025-03-05T15:39:23.447Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:39:23.448Z info: Using pharmacy_db database.
+2025-03-05T15:39:40.950Z info: Development data initialized
+2025-03-05T15:39:40.957Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:39:40.957Z info: Using pharmacy_db database.
+2025-03-05T15:39:43.478Z info: Development data initialized
+2025-03-05T15:39:43.483Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:39:43.483Z info: Using pharmacy_db database.
+2025-03-05T15:39:55.174Z info: Development data initialized
+2025-03-05T15:39:55.179Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:39:55.179Z info: Using pharmacy_db database.
+2025-03-05T15:40:05.220Z info: Development data initialized
+2025-03-05T15:40:05.225Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-05T15:40:05.226Z info: Using pharmacy_db database.
+2025-03-06T12:42:26.980Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-07T12:33:26.887Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-10T07:34:41.258Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-10T11:28:58.632Z info: Development data initialized
+2025-03-10T11:28:58.636Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:28:58.637Z info: Using pharmacy_db database.
+2025-03-10T11:29:13.891Z info: Development data initialized
+2025-03-10T11:29:13.898Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:29:13.898Z info: Using pharmacy_db database.
+2025-03-10T11:29:46.093Z info: Development data initialized
+2025-03-10T11:29:46.098Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:29:46.098Z info: Using pharmacy_db database.
+2025-03-10T11:37:51.554Z info: Development data initialized
+2025-03-10T11:37:51.560Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:37:51.560Z info: Using pharmacy_db database.
+2025-03-10T11:37:58.644Z info: Development data initialized
+2025-03-10T11:37:58.649Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:37:58.649Z info: Using pharmacy_db database.
+2025-03-10T11:40:15.829Z info: Development data initialized
+2025-03-10T11:40:15.835Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:40:15.835Z info: Using pharmacy_db database.
+2025-03-10T11:40:30.861Z info: Development data initialized
+2025-03-10T11:40:30.866Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:40:30.866Z info: Using pharmacy_db database.
+2025-03-10T11:40:47.783Z info: Development data initialized
+2025-03-10T11:40:47.790Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:40:47.790Z info: Using pharmacy_db database.
+2025-03-10T11:41:04.810Z info: Development data initialized
+2025-03-10T11:41:04.816Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:41:04.816Z info: Using pharmacy_db database.
+2025-03-10T11:42:29.517Z info: Development data initialized
+2025-03-10T11:42:29.523Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:42:29.523Z info: Using pharmacy_db database.
+2025-03-10T11:43:19.837Z info: Development data initialized
+2025-03-10T11:43:19.842Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:43:19.842Z info: Using pharmacy_db database.
+2025-03-10T11:43:43.600Z info: Development data initialized
+2025-03-10T11:43:43.605Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:43:43.605Z info: Using pharmacy_db database.
+2025-03-10T11:43:49.398Z info: Development data initialized
+2025-03-10T11:43:49.406Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:43:49.407Z info: Using pharmacy_db database.
+2025-03-10T11:44:18.785Z info: Development data initialized
+2025-03-10T11:44:18.790Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:44:18.790Z info: Using pharmacy_db database.
+2025-03-10T11:47:45.416Z info: Development data initialized
+2025-03-10T11:48:02.406Z info: Development data initialized
+2025-03-10T11:48:02.411Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:48:02.411Z info: Using pharmacy_db database.
+2025-03-10T11:48:45.150Z info: Development data initialized
+2025-03-10T11:48:45.155Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:48:45.156Z info: Using pharmacy_db database.
+2025-03-10T11:48:48.242Z info: Development data initialized
+2025-03-10T11:48:48.247Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:48:48.247Z info: Using pharmacy_db database.
+2025-03-10T11:49:18.712Z info: Development data initialized
+2025-03-10T11:49:18.718Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:49:18.718Z info: Using pharmacy_db database.
+2025-03-10T11:49:31.210Z error: Op is not defined
+ReferenceError: Op is not defined
+    at MedicamentRepository.findAllByPage (file:///app/apps/repository/Medicament.repository.js:5:45)
+    at MedicamentService.getAll (file:///app/apps/services/Medicament.service.js:5:43)
+    at getAllMedicaments (file:///app/apps/controllers/medicament.controller.js:7:57)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+2025-03-10T11:50:22.656Z info: Development data initialized
+2025-03-10T11:50:22.661Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T11:50:22.661Z info: Using pharmacy_db database.
+2025-03-10T11:53:42.702Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T11:54:05.909Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T12:19:53.710Z info: Development data initialized
+2025-03-10T12:20:05.653Z info: Development data initialized
+2025-03-10T12:20:40.344Z info: Development data initialized
+2025-03-10T12:20:46.112Z info: Development data initialized
+2025-03-10T12:22:16.346Z info: Development data initialized
+2025-03-10T12:23:20.164Z info: Development data initialized
+2025-03-10T12:23:20.169Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:23:20.169Z info: Using pharmacy_db database.
+2025-03-10T12:26:52.975Z info: Development data initialized
+2025-03-10T12:26:52.984Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:26:52.984Z info: Using pharmacy_db database.
+2025-03-10T12:27:05.774Z info: Development data initialized
+2025-03-10T12:27:05.781Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:27:05.781Z info: Using pharmacy_db database.
+2025-03-10T12:40:06.597Z info: Development data initialized
+2025-03-10T12:40:06.602Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:40:06.602Z info: Using pharmacy_db database.
+2025-03-10T12:41:05.954Z info: Development data initialized
+2025-03-10T12:41:05.959Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:41:05.959Z info: Using pharmacy_db database.
+2025-03-10T12:41:17.108Z info: Development data initialized
+2025-03-10T12:41:17.113Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:41:17.113Z info: Using pharmacy_db database.
+2025-03-10T12:41:18.959Z info: Development data initialized
+2025-03-10T12:41:18.966Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:41:18.966Z info: Using pharmacy_db database.
+2025-03-10T12:46:25.780Z info: Development data initialized
+2025-03-10T12:46:25.785Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:46:25.785Z info: Using pharmacy_db database.
+2025-03-10T12:46:29.132Z info: Development data initialized
+2025-03-10T12:46:29.137Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:46:29.138Z info: Using pharmacy_db database.
+2025-03-10T12:47:22.535Z info: Development data initialized
+2025-03-10T12:47:22.542Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:47:22.542Z info: Using pharmacy_db database.
+2025-03-10T12:47:44.850Z info: Development data initialized
+2025-03-10T12:47:44.855Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:47:44.855Z info: Using pharmacy_db database.
+2025-03-10T12:51:33.965Z info: Development data initialized
+2025-03-10T12:51:33.969Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:51:33.970Z info: Using pharmacy_db database.
+2025-03-10T12:52:44.511Z info: Development data initialized
+2025-03-10T12:52:44.516Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T12:52:44.516Z info: Using pharmacy_db database.
+2025-03-10T13:02:50.766Z error: NaN is not a valid float
+Error: NaN is not a valid float
+    at ValidationErrorItem.throwDataTypeValidationError (/app/node_modules/@sequelize/core/lib/errors/validation-error.js:80:11)
+    at FLOAT.validate (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types.js:670:41)
+    at validateDataType (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types-utils.js:77:10)
+    at Sequelize.validateValue (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:837:64)
+    at MySqlQueryGenerator.escape (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator-typescript.js:654:20)
+    at formatMySqlStyleLimitOffset (/app/node_modules/@sequelize/core/lib/utils/sql.js:359:42)
+    at MySqlQueryGeneratorInternal.addLimitAndOffset (/app/node_modules/@sequelize/mysql/lib/query-generator.internal.js:41:55)
+    at MySqlQueryGenerator.selectQuery (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator.js:1071:40)
+    at MySqlQueryInterface.select (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-interface.js:500:37)
+    at Medicament.findAll (/app/node_modules/@sequelize/core/lib/model.js:1047:47)
+2025-03-10T13:03:52.381Z info: Development data initialized
+2025-03-10T13:03:52.386Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:03:52.386Z info: Using pharmacy_db database.
+2025-03-10T13:03:56.093Z info: Development data initialized
+2025-03-10T13:03:56.097Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:03:56.097Z info: Using pharmacy_db database.
+2025-03-10T13:05:07.551Z info: Development data initialized
+2025-03-10T13:05:07.558Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:05:07.558Z info: Using pharmacy_db database.
+2025-03-10T13:05:10.745Z error: NaN is not a valid float
+Error: NaN is not a valid float
+    at ValidationErrorItem.throwDataTypeValidationError (/app/node_modules/@sequelize/core/lib/errors/validation-error.js:80:11)
+    at FLOAT.validate (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types.js:670:41)
+    at validateDataType (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types-utils.js:77:10)
+    at Sequelize.validateValue (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:837:64)
+    at MySqlQueryGenerator.escape (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator-typescript.js:654:20)
+    at formatMySqlStyleLimitOffset (/app/node_modules/@sequelize/core/lib/utils/sql.js:359:42)
+    at MySqlQueryGeneratorInternal.addLimitAndOffset (/app/node_modules/@sequelize/mysql/lib/query-generator.internal.js:41:55)
+    at MySqlQueryGenerator.selectQuery (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator.js:1071:40)
+    at MySqlQueryInterface.select (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-interface.js:500:37)
+    at Medicament.findAll (/app/node_modules/@sequelize/core/lib/model.js:1047:47)
+2025-03-10T13:05:30.001Z info: Development data initialized
+2025-03-10T13:05:30.006Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:05:30.006Z info: Using pharmacy_db database.
+2025-03-10T13:13:31.408Z error: Le nom est requis
+Error: Le nom est requis
+    at MedicamentService.create (file:///app/apps/services/Medicament.service.js:18:19)
+    at createMedicament (file:///app/apps/controllers/medicament.controller.js:26:56)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at serveStatic (/app/node_modules/serve-static/index.js:75:16)
+2025-03-10T13:20:48.176Z error: Medicament.delete is not a function
+TypeError: Medicament.delete is not a function
+    at MedicamentRepository.delete (file:///app/apps/repository/Medicament.repository.js:28:39)
+    at MedicamentService.delete (file:///app/apps/services/Medicament.service.js:32:49)
+    at deleteMedicament (file:///app/apps/controllers/medicament.controller.js:44:43)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+    at param (/app/node_modules/express/lib/router/index.js:376:14)
+2025-03-10T13:22:30.922Z info: Development data initialized
+2025-03-10T13:22:30.932Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:22:30.933Z info: Using pharmacy_db database.
+2025-03-10T13:22:50.162Z error: Cannot use 'in' operator to search for 'truncate' in 1
+TypeError: Cannot use 'in' operator to search for 'truncate' in 1
+    at Medicament.destroy (/app/node_modules/@sequelize/core/lib/model.js:2062:31)
+    at MedicamentRepository.delete (file:///app/apps/repository/Medicament.repository.js:28:33)
+    at MedicamentService.delete (file:///app/apps/services/Medicament.service.js:32:49)
+    at deleteMedicament (file:///app/apps/controllers/medicament.controller.js:44:43)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+2025-03-10T13:23:15.378Z info: Development data initialized
+2025-03-10T13:23:15.383Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:23:15.383Z info: Using pharmacy_db database.
+2025-03-10T13:25:19.662Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T13:32:39.925Z error: Médicament introuvable
+Error: Médicament introuvable
+    at MedicamentService.getById (file:///app/apps/services/Medicament.service.js:11:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getMedicamentById (file:///app/apps/controllers/medicament.controller.js:17:32)
+2025-03-10T13:32:39.939Z error: Médicament introuvable
+Error: Médicament introuvable
+    at MedicamentService.update (file:///app/apps/services/Medicament.service.js:26:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateMedicament (file:///app/apps/controllers/medicament.controller.js:35:32)
+2025-03-10T13:32:40.047Z error: Ordonnance introuvable
+Error: Ordonnance introuvable
+    at OrdonnanceService.update (file:///app/apps/services/Ordonnance.service.js:31:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateOrdonnance (file:///app/apps/controllers/ordonnance.controller.js:34:32)
+2025-03-10T13:33:01.104Z info: Development data initialized
+2025-03-10T13:33:01.109Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:33:01.109Z info: Using pharmacy_db database.
+2025-03-10T13:33:59.526Z info: Development data initialized
+2025-03-10T13:33:59.532Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:33:59.532Z info: Using pharmacy_db database.
+2025-03-10T13:41:14.831Z info: Development data initialized
+2025-03-10T13:41:14.839Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:41:14.840Z info: Using pharmacy_db database.
+2025-03-10T13:43:53.931Z info: Development data initialized
+2025-03-10T13:43:53.936Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:43:53.936Z info: Using pharmacy_db database.
+2025-03-10T13:45:09.016Z info: Development data initialized
+2025-03-10T13:45:09.021Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:45:09.022Z info: Using pharmacy_db database.
+2025-03-10T13:45:15.988Z info: Development data initialized
+2025-03-10T13:45:15.994Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:45:15.994Z info: Using pharmacy_db database.
+2025-03-10T13:46:42.865Z info: Development data initialized
+2025-03-10T13:46:42.870Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:46:42.871Z info: Using pharmacy_db database.
+2025-03-10T13:51:19.090Z info: Development data initialized
+2025-03-10T13:51:19.097Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:51:19.097Z info: Using pharmacy_db database.
+2025-03-10T13:55:59.451Z info: Development data initialized
+2025-03-10T13:55:59.457Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:55:59.458Z info: Using pharmacy_db database.
+2025-03-10T13:56:05.242Z info: Development data initialized
+2025-03-10T13:56:05.250Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:56:05.250Z info: Using pharmacy_db database.
+2025-03-10T13:57:26.470Z info: Development data initialized
+2025-03-10T13:57:26.476Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:57:26.476Z info: Using pharmacy_db database.
+2025-03-10T13:57:55.845Z info: Development data initialized
+2025-03-10T13:57:55.851Z info: Intranet is listening on port 3000. You are on development environment.
+2025-03-10T13:57:55.851Z info: Using pharmacy_db database.
+2025-03-12T10:09:15.759Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-12T10:10:32.365Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)

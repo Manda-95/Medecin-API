@@ -1,0 +1,211 @@
+2025-02-07T10:18:02.434Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:18:38.936Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:20:11.681Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:23:02.115Z error: Unknown database 'pharmacy_db'
+SequelizeConnectionError: Unknown database 'pharmacy_db'
+    at MySqlConnectionManager.connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/mysql/lib/connection-manager.js:117:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-07T10:26:23.614Z error: insertOrPrintPermissions is not defined
+ReferenceError: insertOrPrintPermissions is not defined
+    at file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:151:5
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-07T10:27:01.879Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-07T10:27:01.972Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T07:52:15.775Z error: database is not defined
+ReferenceError: database is not defined
+    at seedData (file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/librairies/seed.js:5:5)
+    at file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:33:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-02-10T07:52:42.039Z error: notNull violation: Medicament.nom cannot be null
+SequelizeValidationError: notNull violation: Medicament.nom cannot be null
+    at InstanceValidator._validate (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:79:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:112:7)
+    at async InstanceValidator.validate (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/instance-validator.js:93:12)
+    at async Medicament.save (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/model.js:3030:7)
+    at async Medicament.create (/home/mraveloarison/Bureau/Ecole/archiOr/medecine/node_modules/@sequelize/core/lib/model.js:1440:12)
+    at async seedData (file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/librairies/seed.js:9:18)
+    at async file:///home/mraveloarison/Bureau/Ecole/archiOr/medecine/app.js:33:5
+2025-02-10T08:30:02.845Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T08:46:48.296Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-10T08:46:48.396Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T07:32:47.742Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:15:36.008Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:17:34.782Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-12T10:19:00.067Z error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+Error: ENOENT: no such file or directory, stat '/home/mraveloarison/Bureau/Ecole/archiOr/medecine/public/index.html'
+2025-02-13T07:52:52.221Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-02-13T07:52:52.331Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'2025-02-14T07:24:11.411Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-02-14T20:48:19.477Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-04T07:28:03.261Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-05T12:37:19.380Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-06T12:42:26.980Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-07T12:33:26.887Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-10T07:34:41.258Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-10T11:49:31.210Z error: Op is not defined
+ReferenceError: Op is not defined
+    at MedicamentRepository.findAllByPage (file:///app/apps/repository/Medicament.repository.js:5:45)
+    at MedicamentService.getAll (file:///app/apps/services/Medicament.service.js:5:43)
+    at getAllMedicaments (file:///app/apps/controllers/medicament.controller.js:7:57)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+2025-03-10T11:53:42.702Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T11:54:05.909Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T13:02:50.766Z error: NaN is not a valid float
+Error: NaN is not a valid float
+    at ValidationErrorItem.throwDataTypeValidationError (/app/node_modules/@sequelize/core/lib/errors/validation-error.js:80:11)
+    at FLOAT.validate (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types.js:670:41)
+    at validateDataType (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types-utils.js:77:10)
+    at Sequelize.validateValue (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:837:64)
+    at MySqlQueryGenerator.escape (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator-typescript.js:654:20)
+    at formatMySqlStyleLimitOffset (/app/node_modules/@sequelize/core/lib/utils/sql.js:359:42)
+    at MySqlQueryGeneratorInternal.addLimitAndOffset (/app/node_modules/@sequelize/mysql/lib/query-generator.internal.js:41:55)
+    at MySqlQueryGenerator.selectQuery (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator.js:1071:40)
+    at MySqlQueryInterface.select (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-interface.js:500:37)
+    at Medicament.findAll (/app/node_modules/@sequelize/core/lib/model.js:1047:47)
+2025-03-10T13:05:10.745Z error: NaN is not a valid float
+Error: NaN is not a valid float
+    at ValidationErrorItem.throwDataTypeValidationError (/app/node_modules/@sequelize/core/lib/errors/validation-error.js:80:11)
+    at FLOAT.validate (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types.js:670:41)
+    at validateDataType (/app/node_modules/@sequelize/core/lib/abstract-dialect/data-types-utils.js:77:10)
+    at Sequelize.validateValue (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:837:64)
+    at MySqlQueryGenerator.escape (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator-typescript.js:654:20)
+    at formatMySqlStyleLimitOffset (/app/node_modules/@sequelize/core/lib/utils/sql.js:359:42)
+    at MySqlQueryGeneratorInternal.addLimitAndOffset (/app/node_modules/@sequelize/mysql/lib/query-generator.internal.js:41:55)
+    at MySqlQueryGenerator.selectQuery (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-generator.js:1071:40)
+    at MySqlQueryInterface.select (/app/node_modules/@sequelize/core/lib/abstract-dialect/query-interface.js:500:37)
+    at Medicament.findAll (/app/node_modules/@sequelize/core/lib/model.js:1047:47)
+2025-03-10T13:13:31.408Z error: Le nom est requis
+Error: Le nom est requis
+    at MedicamentService.create (file:///app/apps/services/Medicament.service.js:18:19)
+    at createMedicament (file:///app/apps/controllers/medicament.controller.js:26:56)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/app/node_modules/express/lib/router/index.js:346:12)
+    at next (/app/node_modules/express/lib/router/index.js:280:10)
+    at serveStatic (/app/node_modules/serve-static/index.js:75:16)
+2025-03-10T13:20:48.176Z error: Medicament.delete is not a function
+TypeError: Medicament.delete is not a function
+    at MedicamentRepository.delete (file:///app/apps/repository/Medicament.repository.js:28:39)
+    at MedicamentService.delete (file:///app/apps/services/Medicament.service.js:32:49)
+    at deleteMedicament (file:///app/apps/controllers/medicament.controller.js:44:43)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+    at param (/app/node_modules/express/lib/router/index.js:376:14)
+2025-03-10T13:22:50.162Z error: Cannot use 'in' operator to search for 'truncate' in 1
+TypeError: Cannot use 'in' operator to search for 'truncate' in 1
+    at Medicament.destroy (/app/node_modules/@sequelize/core/lib/model.js:2062:31)
+    at MedicamentRepository.delete (file:///app/apps/repository/Medicament.repository.js:28:33)
+    at MedicamentService.delete (file:///app/apps/services/Medicament.service.js:32:49)
+    at deleteMedicament (file:///app/apps/controllers/medicament.controller.js:44:43)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at next (/app/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/app/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/app/node_modules/express/lib/router/layer.js:95:5)
+    at /app/node_modules/express/lib/router/index.js:284:15
+    at param (/app/node_modules/express/lib/router/index.js:365:14)
+2025-03-10T13:25:19.662Z error: ENOENT: no such file or directory, stat '/app/public/index.html'
+Error: ENOENT: no such file or directory, stat '/app/public/index.html'
+2025-03-10T13:32:39.925Z error: Médicament introuvable
+Error: Médicament introuvable
+    at MedicamentService.getById (file:///app/apps/services/Medicament.service.js:11:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getMedicamentById (file:///app/apps/controllers/medicament.controller.js:17:32)
+2025-03-10T13:32:39.939Z error: Médicament introuvable
+Error: Médicament introuvable
+    at MedicamentService.update (file:///app/apps/services/Medicament.service.js:26:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateMedicament (file:///app/apps/controllers/medicament.controller.js:35:32)
+2025-03-10T13:32:40.047Z error: Ordonnance introuvable
+Error: Ordonnance introuvable
+    at OrdonnanceService.update (file:///app/apps/services/Ordonnance.service.js:31:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async updateOrdonnance (file:///app/apps/controllers/ordonnance.controller.js:34:32)
+2025-03-12T10:09:15.759Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
+2025-03-12T10:10:32.365Z error: getaddrinfo ENOTFOUND db
+SequelizeHostNotFoundError: getaddrinfo ENOTFOUND db
+    at MySqlConnectionManager.connect (/app/node_modules/@sequelize/mysql/lib/connection-manager.js:111:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async connect (/app/node_modules/@sequelize/core/lib/sequelize-typescript.js:466:28)
+    at async Object.create (/app/node_modules/@sequelize/core/lib/abstract-dialect/replication-pool.js:78:28)
